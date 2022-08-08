@@ -1,0 +1,30 @@
+@media screen and (min-width:100px){
+    body{
+        margin:50% auto;
+        width: 80%;
+        background-color: rgb(17, 0, 0);
+        font-family: Poppins;
+    }
+    h1{
+        text-align: center;
+        color: white;
+    }
+    .h1-color-green{
+        color: rgb(10, 53, 10);
+    }
+    .h1-color-white{
+        color: white;
+    }
+    .progress{
+        margin-top: 50px;
+    }
+    
+    .banner{
+        width: 100%;
+        height: fit-content;
+        background-color: rgb(112, 36, 36);
+        margin: 1px auto;
+        padding: 50px;
+        border-radius: 10px;
+    }
+}
